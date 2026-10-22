@@ -1,0 +1,6 @@
+{
+  "name": "Psicóloga Steffany Ferreira - Psicoterapia Online para Brasileiros no Exterior",
+  "description": "Atendimento psicológico online acolhedor em português para brasileiros residentes no exterior e no Brasil. Abordagem TCC, sincronização de fusos horários e sessões via Google Meet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
